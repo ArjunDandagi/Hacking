@@ -26,6 +26,10 @@ materials and courses to learn in 2021 to become more aware of cybersecurity and
 
  Heath adams -  [Course](https://academy.tcm-sec.com/p/practical-ethical-hacking-the-complete-course) [youtube](https://www.youtube.com/channel/UC0ArlFuFYMpEewyRBzdLHiw)
  
+
+## previlege escalation
+https://book.hacktricks.xyz/linux-unix/privilege-escalation
+
  
 ## complete free course 
 
