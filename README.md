@@ -34,3 +34,26 @@ https://book.hacktricks.xyz/linux-unix/privilege-escalation
 ## complete free course 
 
 1. [Web application hacking](https://www.youtube.com/watch?v=24fHLWXGS-M)
+
+
+## General Hacking:
+
+Me (The Cyber Mentor) – https://youtube.com/c/thecybermentor
+John Hammond – https://www.youtube.com/user/RootOfTheNull
+Joe Helle – https://www.twitch.tv/themayor11
+Stefan Rows – https://www.youtube.com/user/Ceophreak
+DC CyberSec – https://www.youtube.com/channel/UC3sccPO4v8YqCTn8sezZGTw
+HackerSploit – https://www.youtube.com/channel/UC0ZTPkdxlAKf-V33tqXwi3Q
+NullByte – https://www.youtube.com/channel/UCgTNupxATBfWmfehv21ym-g
+sup3rhero1 – https://www.twitch.tv/sup3rhero1
+Ash_F0x – https://www.twitch.tv/ash_f0x
+
+## Web App/Bug Bounty:
+
+NahamSec – https://www.youtube.com/channel/UCCZDt7MuC3Hzs6IH4xODLBw
+STÖK – https://www.youtube.com/channel/UCQN2DsjnYH60SFBIA6IkNwg
+InsiderPhD – https://www.youtube.com/user/RapidBug
+The XSS Rat – https://www.youtube.com/channel/UCjBhClJ59W4hfUly51i11hg
+Codingo – https://www.youtube.com/channel/UCUfO02gdMDXgOJWdv_jiLMg
+PwnFunction – https://www.youtube.com/channel/UCW6MNdOsqv2E9AjQkv9we7A
+Farah Hawa – https://www.youtube.com/channel/UCq9IyPMXiwD8yBFHkxmN8zg
