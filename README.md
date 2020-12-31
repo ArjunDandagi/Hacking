@@ -15,5 +15,12 @@ materials and courses to learn in 2021 to become more aware of cybersecurity and
 
 
 ## articles. blogs for more material
-[REddit](https://www.reddit.com/r/HowToHack/comments/kmwq6u/so_you_want_to_be_a_hacker_2021_edition/)
+[Reddit](https://www.reddit.com/r/HowToHack/comments/kmwq6u/so_you_want_to_be_a_hacker_2021_edition/)
 
+
+
+## People
+
+ Heath adams -  [Course](https://academy.tcm-sec.com/p/practical-ethical-hacking-the-complete-course) [youtube](https://www.youtube.com/channel/UC0ArlFuFYMpEewyRBzdLHiw)
+ 
+ 
