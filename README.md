@@ -4,8 +4,11 @@ materials and courses to learn in 2021 to become more aware of cybersecurity and
 
 ## Courses
 
-1. [Port Swigger](https://portswigger.net/web-security)
-2. [Hacker101])(https://www.hacker101.com/)
+1. https://portswigger.net/web-security
+2. https://www.hacker101.com/
+3. https://tryhackme.com
+4. https://hackthebox.com
+5. https://vulnhub.com
 
 
 ## Live hacking online
