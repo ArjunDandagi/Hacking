@@ -57,3 +57,7 @@ https://book.hacktricks.xyz/linux-unix/privilege-escalation
  5. Codingo – https://www.youtube.com/channel/UCUfO02gdMDXgOJWdv_jiLMg
  6. PwnFunction – https://www.youtube.com/channel/UCW6MNdOsqv2E9AjQkv9we7A
  7. Farah Hawa – https://www.youtube.com/channel/UCq9IyPMXiwD8yBFHkxmN8zg
+
+
+## Kubernetes 
+1. https://www.youtube.com/watch?v=7nc78ZrvP4Y by Madhu Akula ([Cloud Native Security white paper](https://www.cncf.io/wp-content/uploads/2022/06/CNCF_cloud-native-security-whitepaper-May2022-v2.pdf)
