@@ -60,4 +60,4 @@ https://book.hacktricks.xyz/linux-unix/privilege-escalation
 
 
 ## Kubernetes 
-1. https://www.youtube.com/watch?v=7nc78ZrvP4Y by Madhu Akula ([Cloud Native Security white paper](https://www.cncf.io/wp-content/uploads/2022/06/CNCF_cloud-native-security-whitepaper-May2022-v2.pdf)
+1. https://www.youtube.com/watch?v=7nc78ZrvP4Y by Madhu Akula [Cloud Native Security white paper](https://www.cncf.io/wp-content/uploads/2022/06/CNCF_cloud-native-security-whitepaper-May2022-v2.pdf)
