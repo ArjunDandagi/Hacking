@@ -9,7 +9,8 @@ materials and courses to learn in 2021 to become more aware of cybersecurity and
 3. https://tryhackme.com
 4. https://hackthebox.com
 5. https://vulnhub.com
-6. lot of free and paid material at https://www.nist.gov/itl/applied-cybersecurity/nice/resources/online-learning-content
+6. https://learn.saferinternetproject.com/courses/getting-started-in-cybersecurity/lectures/51489451
+7. lot of free and paid material at https://www.nist.gov/itl/applied-cybersecurity/nice/resources/online-learning-content
 
 ## Live hacking online
 3. [OverTheWire](https://overthewire.org/wargames/)
