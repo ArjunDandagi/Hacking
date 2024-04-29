@@ -15,6 +15,7 @@ materials and courses to learn in 2021 to become more aware of cybersecurity and
 ## Live hacking online
 3. [OverTheWire](https://overthewire.org/wargames/)
 4. [smashthestack](http://smashthestack.org/wargames.html)
+5. [Application.security](https://application.security/free/owasp-top-10)
 
 
 
@@ -60,6 +61,8 @@ https://book.hacktricks.xyz/linux-unix/privilege-escalation
  6. PwnFunction – https://www.youtube.com/channel/UCW6MNdOsqv2E9AjQkv9we7A
  7. Farah Hawa – https://www.youtube.com/channel/UCq9IyPMXiwD8yBFHkxmN8zg
 
+## Tools
+1. [Bombardier](https://github.com/codesenberg/bombardier)
 
 ## Kubernetes 
 1. https://www.youtube.com/watch?v=7nc78ZrvP4Y by Madhu Akula [Cloud Native Security white paper](https://www.cncf.io/wp-content/uploads/2022/06/CNCF_cloud-native-security-whitepaper-May2022-v2.pdf)
