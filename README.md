@@ -11,6 +11,7 @@ materials and courses to learn in 2021 to become more aware of cybersecurity and
 5. https://vulnhub.com
 6. https://learn.saferinternetproject.com/courses/getting-started-in-cybersecurity/lectures/51489451
 7. lot of free and paid material at https://www.nist.gov/itl/applied-cybersecurity/nice/resources/online-learning-content
+8. https://www.youtube.com/watch?v=htez3rhhPO8 to cisco netacad. https://www.netacad.com/launch?id=80c156bc-84a4-47c9-a233-5eafe7bdde82&tab=curriculum&view=4b9a9e78-8312-5c08-b4fb-831ec7d5f43a
 
 ## Live hacking online
 3. [OverTheWire](https://overthewire.org/wargames/)
