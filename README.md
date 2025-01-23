@@ -18,6 +18,7 @@ materials and courses to learn in 2021 to become more aware of cybersecurity and
 4. [smashthestack](http://smashthestack.org/wargames.html)
 5. [Application.security](https://application.security/free/owasp-top-10)
 6. [pwn.college](https://pwn.college/)
+7. [projectsecurity](https://projectsecurity.teachable.com/)
 
 
 
